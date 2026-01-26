@@ -40,7 +40,7 @@ Python-GUI-Calculator/
 
 🚀 How to Run the Program
 
-Step-3: Clone the repository:
+Step-1: Clone the repository:
 
 git clone https://github.com/pdiya1710/Python-GUI-Calculator.git
 
